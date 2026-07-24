@@ -1,7 +1,7 @@
 # Evidence Archive: Reddit Account Activity Exports for Anon Account
 
 ## Overview
-This repository serves as a centralized archive for Reddit account data related to ****.
+This repository serves as a centralized archive for Reddit account data related to Dave Ellis from Fredericksburg, Virginia. 
 
 The data contained herein was retrieved via **Arctic Shift** archival tools to preserve the digital footprint of specific anonymous accounts prior to their deletion or modification.
 
